@@ -1,10 +1,10 @@
 # General
 # alias cl='clear; ls -lA1h'
-# alias ll='ls -lah'
+alias ll='ls -lah'
 # alias l='ls -lh'
 # alias rzsh='source ~/.zshrc'
-# alias zshrc='vim ~/.zshrc'
-# alias vimrc='vim ~/.vimrc'
+alias zshrc='vim ~/.zshrc'
+alias vimrc='vim ~/.vimrc'
 # alias vssh='less ~/.ssh/config'
 # alias essh='vim ~/.ssh/config'
 # alias vhosts='less /etc/hosts'
