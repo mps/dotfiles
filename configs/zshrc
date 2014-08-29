@@ -41,5 +41,4 @@ source ~/dotfiles/tools/check_for_upgrade.sh
 export PATH="/usr/local/heroku/bin:$PATH"
 
 ### rbenv
-eval "$(rbenv init -)"
-
+eval "$(rbenv init -)
