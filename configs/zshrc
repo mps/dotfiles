@@ -42,3 +42,6 @@ export PATH="/usr/local/heroku/bin:$PATH"
 
 ### rbenv
 eval "$(rbenv init -)"
+
+### skypeit
+eval "$(skypeit --completion=zsh)"
